@@ -117,7 +117,7 @@ void loop()
 
 3. Hacer las concexiones del sensor ultrasonico HC-SR04 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
-![](
+![](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/conexiones.png?raw=true)
 
 ## Librerias empleadas
 1. DHT sensor library for ESPx
@@ -137,19 +137,19 @@ Una vez realizados los pasos anteriores deberas visualizar los elementos solicit
 
 ## Pantalla 1:
 
-![](
+![](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/diplomado.png?raw=true)
 
 ## Pantalla 2:
 
-![](
+![](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/nombre%20%20y%20carrera.png?raw=true)
 
 ## Pantalla 3:
 
-![image](
+![image](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/fecha.png?raw=true)
 
 ## Pantalla 4:
 
-![image](
+![image](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/distancia.png?raw=true)
 
 
 # Créditos
