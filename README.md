@@ -113,7 +113,7 @@ void loop()
 
 2. Instalar la libreria de DHT sensor library for ESPx y en la siguiente imagen se muestran las librerias empleadas.
 
-![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/LIBRERIAS.png?raw=true)
+![](https://github.com/HV202506/Practica-ESP32-LCD-y-ULTRASONICO/blob/main/librerias.png?raw=true)
 
 3. Hacer las concexiones del sensor ultrasonico HC-SR04 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
