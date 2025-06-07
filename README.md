@@ -100,7 +100,7 @@ void loop()
   delay(2000);
   lcd.clear();
 
-  //Mostrar temperatura (fila 1); mostrar humedad (fila 2)
+  //Mostrar la distancia en "cm"
   lcd.setCursor(0, 0);
   lcd.print("Distancia: " + String(d) + "cm");
   lcd.setCursor(0, 1);
