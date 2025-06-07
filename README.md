@@ -115,7 +115,7 @@ void loop()
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/LIBRERIAS.png?raw=true)
 
-3. Hacer las concexiones del DHT11 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
+3. Hacer las concexiones del sensor ultrasonico HC-SR04 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
 ![](
 
