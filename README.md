@@ -20,7 +20,7 @@ Esta practica se realizo empleando un simulador: [WOKWI](www.wokwi.com) la cual 
 Para realizar esta practica se necesito
 - [WOKWI](www.wokwi.com)
 - Una tarjeta ESP32 (para adquisicion de datos)
-- Sensor ultrasonico HC-SR04 Ultrasonic Distance Sensor
+- Sensor ultrasonico "HC-SR04 Ultrasonic Distance Sensor"
 - LCD 16x2 (I2C)
 
 # Instrucciones
